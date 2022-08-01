@@ -1,7 +1,7 @@
 package com.cg.method;
 interface Bike
 {
-	void getMilage();
+	abstract void getMilage();
 }
 class R15 implements Bike{
 
